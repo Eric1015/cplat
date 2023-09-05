@@ -1,6 +1,8 @@
-### Cplat (Copy Latest)
+# Cplat (Copy Latest)
 
 This CLI tool is made to copy the latest file from the downloads folder to a specified folder. (folders will be ignored)
+
+URL on crates.io: https://crates.io/crates/cplat
 
 ### Why I built this?
 
