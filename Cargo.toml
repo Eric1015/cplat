@@ -2,6 +2,13 @@
 name = "cplat"
 version = "0.1.0"
 authors = ["Boyi Yao <boyiyao1@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "A tool to copy the latest file from Downloads folder"
+readme = "README.md"
+homepage = "https://github.com/Eric1015/cplat"
+repository = "https://github.com/Eric1015/cplat"
+keywords = ["cli", "copy", "downloads"]
+categories = ["command-line-utilities"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
